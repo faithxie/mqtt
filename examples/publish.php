@@ -8,7 +8,7 @@ $callPhone = $_GET['callphone'];
 //echo $callPhone;
 
 
-$server = "tuisong.doposoft.cn";     // change if necessary
+$server = "tuisong.xxxxxxxxxxxxx.cn";     // change if necessary
 $port = 1883;                     // change if necessary
 $username = "";                   // set your username
 $password = "";                   // set your password
